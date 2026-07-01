@@ -11,9 +11,6 @@ Heyy everyone,<br>My name is Jasvanth, and I recently completed my graduation fr
 ### ✍️ My Inspirational Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jasvanth17112004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=jasvanth17112004&icon=4&color=0)](https://visitcount.itsvg.in)
+
 
